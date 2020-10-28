@@ -1,24 +1,25 @@
 <!--- PrjInfo ---> <!--- Please remove this line after manually editing --->
 <!--- 00a56be08b96043df9e37d6aff7b6990 --->
-<!--- Created:Time: ---> 
-<!--- Author:Mlab: ---> 
-<!--- AuthorEmail:mlab@mlab.cz: ---> 
-<!--- Tags:imported: ---> 
-<!--- Ust:None: ---> 
+<!--- Created:Time: --->
+<!--- Author:Mlab: --->
+<!--- AuthorEmail:mlab@mlab.cz: --->
+<!--- Tags:imported: --->
+<!--- Ust:None: --->
 <!--- Label --->
-<!--- ELabel ---> 
+<!--- ELabel --->
 <!--- Name:module: --->
-#module 
+# DATALOGGER01A
 <!--- LongName --->
-module description
-<!--- ELongName ---> 
+##
+<!--- ELongName --->
 
 <!--- Lead --->
-module lead text
-<!--- ELead ---> 
 
-![LeadImg](doc/img/module_top_big.jpg) 
+<!--- ELead --->
 
+![DATALOGGER01A Top](doc/img/DATALOGGER01A_top.png)
+
+![DATALOGGER01A Bottom](doc/img/DATALOGGER01A_bottom.png)
 
 <!--- Description --->
 <!--- EDescription --->
