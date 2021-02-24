@@ -2,7 +2,7 @@
 <export version="D">
   <design>
     <source>G:\MLAB_G\Moduly_zvlast\DATALOGGER01\hw\sch_pcb\DATALOGGER01A.kicad_sch</source>
-    <date>24.02.2021 13:56:49</date>
+    <date>24.02.2021 14:07:22</date>
     <tool>Eeschema (5.99.0-9154-g0d2ee266a1)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -28,10 +28,11 @@
       <value>BX0037</value>
       <footprint>Mlab_Batery:BX0037</footprint>
       <fields>
-        <field name="USD_ID">5c70984412875079b91f87ed</field>
+        <field name="UST_ID">5c70984412875079b91f87ed</field>
       </fields>
       <libsource lib="DATALOGGER01A-rescue" part="Battery_Cell-device" description=""/>
-      <property name="USD_ID" value="5c70984412875079b91f87ed"/>
+      <property name="USD_ID" value=""/>
+      <property name="UST_ID" value="5c70984412875079b91f87ed"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -41,10 +42,11 @@
       <value>BX0037</value>
       <footprint>Mlab_Batery:BX0037</footprint>
       <fields>
-        <field name="USD_ID">5c70984412875079b91f87ed</field>
+        <field name="UST_ID">5c70984412875079b91f87ed</field>
       </fields>
       <libsource lib="DATALOGGER01A-rescue" part="Battery_Cell-device" description=""/>
-      <property name="USD_ID" value="5c70984412875079b91f87ed"/>
+      <property name="USD_ID" value=""/>
+      <property name="UST_ID" value="5c70984412875079b91f87ed"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -54,10 +56,11 @@
       <value>Battery_Cell-device</value>
       <footprint>Mlab_Batery:CH28-2032</footprint>
       <fields>
-        <field name="USD_ID">5c70984412875079b91f87ec</field>
+        <field name="UST_ID">5c70984412875079b91f87ec</field>
       </fields>
       <libsource lib="DATALOGGER01A-rescue" part="Battery_Cell-device" description=""/>
-      <property name="USD_ID" value="5c70984412875079b91f87ec"/>
+      <property name="USD_ID" value=""/>
+      <property name="UST_ID" value="5c70984412875079b91f87ec"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -67,10 +70,11 @@
       <value>100nF</value>
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
-        <field name="USD_ID">5c70984712875079b91f8b4c</field>
+        <field name="UST_ID">5c70984712875079b91f8b4c</field>
       </fields>
       <libsource lib="DATALOGGER01A-rescue" part="C-device" description=""/>
-      <property name="USD_ID" value="5c70984712875079b91f8b4c"/>
+      <property name="USD_ID" value=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -80,10 +84,11 @@
       <value>100nF</value>
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
-        <field name="USD_ID">5c70984712875079b91f8b4c</field>
+        <field name="UST_ID">5c70984712875079b91f8b4c</field>
       </fields>
       <libsource lib="DATALOGGER01A-rescue" part="C-device" description=""/>
-      <property name="USD_ID" value="5c70984712875079b91f8b4c"/>
+      <property name="USD_ID" value=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -93,10 +98,11 @@
       <value>100nF</value>
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
-        <field name="USD_ID">5c70984712875079b91f8b4c</field>
+        <field name="UST_ID">5c70984712875079b91f8b4c</field>
       </fields>
       <libsource lib="DATALOGGER01A-rescue" part="C-device" description=""/>
-      <property name="USD_ID" value="5c70984712875079b91f8b4c"/>
+      <property name="USD_ID" value=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -106,10 +112,11 @@
       <value>100nF</value>
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
-        <field name="USD_ID">5c70984712875079b91f8b4c</field>
+        <field name="UST_ID">5c70984712875079b91f8b4c</field>
       </fields>
       <libsource lib="DATALOGGER01A-rescue" part="C-device" description=""/>
-      <property name="USD_ID" value="5c70984712875079b91f8b4c"/>
+      <property name="USD_ID" value=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -119,10 +126,11 @@
       <value>100nF</value>
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
-        <field name="USD_ID">5c70984712875079b91f8b4c</field>
+        <field name="UST_ID">5c70984712875079b91f8b4c</field>
       </fields>
       <libsource lib="DATALOGGER01A-rescue" part="C-device" description=""/>
-      <property name="USD_ID" value="5c70984712875079b91f8b4c"/>
+      <property name="USD_ID" value=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -132,10 +140,11 @@
       <value>100nF</value>
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
-        <field name="USD_ID">5c70984712875079b91f8b4c</field>
+        <field name="UST_ID">5c70984712875079b91f8b4c</field>
       </fields>
       <libsource lib="DATALOGGER01A-rescue" part="C-device" description=""/>
-      <property name="USD_ID" value="5c70984712875079b91f8b4c"/>
+      <property name="USD_ID" value=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -145,10 +154,11 @@
       <value>1uF</value>
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
-        <field name="USD_ID">5c70984712875079b91f8b50</field>
+        <field name="UST_ID">5c70984712875079b91f8b50</field>
       </fields>
       <libsource lib="DATALOGGER01A-rescue" part="C-device" description=""/>
-      <property name="USD_ID" value="5c70984712875079b91f8b50"/>
+      <property name="USD_ID" value=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8b50"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -158,10 +168,11 @@
       <value>100nF</value>
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
-        <field name="USD_ID">5c70984712875079b91f8b4c</field>
+        <field name="UST_ID">5c70984712875079b91f8b4c</field>
       </fields>
       <libsource lib="DATALOGGER01A-rescue" part="C-device" description=""/>
-      <property name="USD_ID" value="5c70984712875079b91f8b4c"/>
+      <property name="USD_ID" value=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -171,10 +182,11 @@
       <value>47uF</value>
       <footprint>Mlab_C:TantalC_SizeC_Reflow</footprint>
       <fields>
-        <field name="USD_ID">5c70984412875079b91f8867</field>
+        <field name="UST_ID">5c70984412875079b91f8867</field>
       </fields>
       <libsource lib="DATALOGGER01A-rescue" part="CP-device" description=""/>
-      <property name="USD_ID" value="5c70984412875079b91f8867"/>
+      <property name="USD_ID" value=""/>
+      <property name="UST_ID" value="5c70984412875079b91f8867"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -194,10 +206,11 @@
       <value>10uF</value>
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
-        <field name="USD_ID">5c70984812875079b91f8bbd</field>
+        <field name="UST_ID">5c70984812875079b91f8bbd</field>
       </fields>
       <libsource lib="DATALOGGER01A-rescue" part="C-device" description=""/>
-      <property name="USD_ID" value="5c70984812875079b91f8bbd"/>
+      <property name="USD_ID" value=""/>
+      <property name="UST_ID" value="5c70984812875079b91f8bbd"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -207,10 +220,11 @@
       <value>1nF</value>
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
-        <field name="USD_ID">5c70984712875079b91f8b45</field>
+        <field name="UST_ID">5c70984712875079b91f8b45</field>
       </fields>
       <libsource lib="DATALOGGER01A-rescue" part="C-device" description=""/>
-      <property name="USD_ID" value="5c70984712875079b91f8b45"/>
+      <property name="USD_ID" value=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8b45"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -220,10 +234,11 @@
       <value>100nF</value>
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
-        <field name="USD_ID">5c70984712875079b91f8b4c</field>
+        <field name="UST_ID">5c70984712875079b91f8b4c</field>
       </fields>
       <libsource lib="DATALOGGER01A-rescue" part="C-device" description=""/>
-      <property name="USD_ID" value="5c70984712875079b91f8b4c"/>
+      <property name="USD_ID" value=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -233,10 +248,11 @@
       <value>10uF</value>
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
-        <field name="USD_ID">5c70984812875079b91f8bbd</field>
+        <field name="UST_ID">5c70984812875079b91f8bbd</field>
       </fields>
       <libsource lib="DATALOGGER01A-rescue" part="C-device" description=""/>
-      <property name="USD_ID" value="5c70984812875079b91f8bbd"/>
+      <property name="USD_ID" value=""/>
+      <property name="UST_ID" value="5c70984812875079b91f8bbd"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -246,10 +262,11 @@
       <value>100nF</value>
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
-        <field name="USD_ID">5c70984712875079b91f8b4c</field>
+        <field name="UST_ID">5c70984712875079b91f8b4c</field>
       </fields>
       <libsource lib="DATALOGGER01A-rescue" part="C-device" description=""/>
-      <property name="USD_ID" value="5c70984712875079b91f8b4c"/>
+      <property name="USD_ID" value=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -259,10 +276,11 @@
       <value>4u7</value>
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
-        <field name="USD_ID">5c70984712875079b91f8b52</field>
+        <field name="UST_ID">5c70984712875079b91f8b52</field>
       </fields>
       <libsource lib="DATALOGGER01A-rescue" part="C-device" description=""/>
-      <property name="USD_ID" value="5c70984712875079b91f8b52"/>
+      <property name="USD_ID" value=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8b52"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -272,10 +290,11 @@
       <value>100nF</value>
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
-        <field name="USD_ID">5c70984712875079b91f8b4c</field>
+        <field name="UST_ID">5c70984712875079b91f8b4c</field>
       </fields>
       <libsource lib="DATALOGGER01A-rescue" part="C-device" description=""/>
-      <property name="USD_ID" value="5c70984712875079b91f8b4c"/>
+      <property name="USD_ID" value=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -285,10 +304,11 @@
       <value>100nF</value>
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
-        <field name="USD_ID">5c70984712875079b91f8b4c</field>
+        <field name="UST_ID">5c70984712875079b91f8b4c</field>
       </fields>
       <libsource lib="DATALOGGER01A-rescue" part="C-device" description=""/>
-      <property name="USD_ID" value="5c70984712875079b91f8b4c"/>
+      <property name="USD_ID" value=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -298,10 +318,11 @@
       <value>100nF</value>
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
-        <field name="USD_ID">5c70984712875079b91f8b4c</field>
+        <field name="UST_ID">5c70984712875079b91f8b4c</field>
       </fields>
       <libsource lib="DATALOGGER01A-rescue" part="C-device" description=""/>
-      <property name="USD_ID" value="5c70984712875079b91f8b4c"/>
+      <property name="USD_ID" value=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -311,10 +332,11 @@
       <value>100nF</value>
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
-        <field name="USD_ID">5c70984712875079b91f8b4c</field>
+        <field name="UST_ID">5c70984712875079b91f8b4c</field>
       </fields>
       <libsource lib="DATALOGGER01A-rescue" part="C-device" description=""/>
-      <property name="USD_ID" value="5c70984712875079b91f8b4c"/>
+      <property name="USD_ID" value=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -324,10 +346,11 @@
       <value>100nF</value>
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
-        <field name="USD_ID">5c70984712875079b91f8b4c</field>
+        <field name="UST_ID">5c70984712875079b91f8b4c</field>
       </fields>
       <libsource lib="DATALOGGER01A-rescue" part="C-device" description=""/>
-      <property name="USD_ID" value="5c70984712875079b91f8b4c"/>
+      <property name="USD_ID" value=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -337,10 +360,11 @@
       <value>100nF</value>
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
-        <field name="USD_ID">5c70984712875079b91f8b4c</field>
+        <field name="UST_ID">5c70984712875079b91f8b4c</field>
       </fields>
       <libsource lib="DATALOGGER01A-rescue" part="C-device" description=""/>
-      <property name="USD_ID" value="5c70984712875079b91f8b4c"/>
+      <property name="USD_ID" value=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -350,10 +374,11 @@
       <value>M4</value>
       <footprint>Mlab_D:SMA_Standard</footprint>
       <fields>
-        <field name="USD_ID">5c70984512875079b91f88ac</field>
+        <field name="UST_ID">5c70984512875079b91f88ac</field>
       </fields>
       <libsource lib="DATALOGGER01A-rescue" part="D-device" description=""/>
-      <property name="USD_ID" value="5c70984512875079b91f88ac"/>
+      <property name="USD_ID" value=""/>
+      <property name="UST_ID" value="5c70984512875079b91f88ac"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -364,10 +389,11 @@
       <footprint>Mlab_D:FIX-LED-313</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="USD_ID">5c70984712875079b91f8b67</field>
+        <field name="UST_ID">5c70984712875079b91f8b67</field>
       </fields>
       <libsource lib="DATALOGGER01A-rescue" part="LED-device" description=""/>
-      <property name="USD_ID" value="5c70984712875079b91f8b67"/>
+      <property name="USD_ID" value=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8b67"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -377,10 +403,11 @@
       <value>750mA</value>
       <footprint>Mlab_F:1812</footprint>
       <fields>
-        <field name="USD_ID">5c70984512875079b91f88d2</field>
+        <field name="UST_ID">5c70984512875079b91f88d2</field>
       </fields>
       <libsource lib="DATALOGGER01A-rescue" part="Polyfuse-device" description=""/>
-      <property name="USD_ID" value="5c70984512875079b91f88d2"/>
+      <property name="USD_ID" value=""/>
+      <property name="UST_ID" value="5c70984512875079b91f88d2"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -390,10 +417,11 @@
       <value>750mA</value>
       <footprint>Mlab_F:1812</footprint>
       <fields>
-        <field name="USD_ID">5c70984512875079b91f88d2</field>
+        <field name="UST_ID">5c70984512875079b91f88d2</field>
       </fields>
       <libsource lib="DATALOGGER01A-rescue" part="Polyfuse-device" description=""/>
-      <property name="USD_ID" value="5c70984512875079b91f88d2"/>
+      <property name="USD_ID" value=""/>
+      <property name="UST_ID" value="5c70984512875079b91f88d2"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -458,10 +486,11 @@
       <footprint>Connector_Card:SD_TE_2041021</footprint>
       <datasheet>http://portal.fciconnect.com/Comergent//fci/drawing/10067847.pdf</datasheet>
       <fields>
-        <field name="USD_ID">5c70984412875079b91f87f2</field>
+        <field name="UST_ID">5c70984412875079b91f87f2</field>
       </fields>
       <libsource lib="DATALOGGER01A-rescue" part="SD_Card-Connector" description=""/>
-      <property name="USD_ID" value="5c70984412875079b91f87f2"/>
+      <property name="USD_ID" value=""/>
+      <property name="UST_ID" value="5c70984412875079b91f87f2"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -715,10 +744,11 @@
       <value>10uH - LQH32CN100K23L</value>
       <footprint>Mlab_R:SMD-1210</footprint>
       <fields>
-        <field name="USD_ID">5c70984412875079b91f87ff</field>
+        <field name="UST_ID">5c70984412875079b91f87ff</field>
       </fields>
       <libsource lib="DATALOGGER01A-rescue" part="L-device" description=""/>
-      <property name="USD_ID" value="5c70984412875079b91f87ff"/>
+      <property name="USD_ID" value=""/>
+      <property name="UST_ID" value="5c70984412875079b91f87ff"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -764,10 +794,11 @@
       <value>100</value>
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
-        <field name="USD_ID">5c70984512875079b91f8977</field>
+        <field name="UST_ID">5c70984512875079b91f8977</field>
       </fields>
       <libsource lib="DATALOGGER01A-rescue" part="R-device" description=""/>
-      <property name="USD_ID" value="5c70984512875079b91f8977"/>
+      <property name="USD_ID" value=""/>
+      <property name="UST_ID" value="5c70984512875079b91f8977"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -777,10 +808,11 @@
       <value>100</value>
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
-        <field name="USD_ID">5c70984512875079b91f8977</field>
+        <field name="UST_ID">5c70984512875079b91f8977</field>
       </fields>
       <libsource lib="DATALOGGER01A-rescue" part="R-device" description=""/>
-      <property name="USD_ID" value="5c70984512875079b91f8977"/>
+      <property name="USD_ID" value=""/>
+      <property name="UST_ID" value="5c70984512875079b91f8977"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -790,10 +822,11 @@
       <value>100</value>
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
-        <field name="USD_ID">5c70984512875079b91f8977</field>
+        <field name="UST_ID">5c70984512875079b91f8977</field>
       </fields>
       <libsource lib="DATALOGGER01A-rescue" part="R-device" description=""/>
-      <property name="USD_ID" value="5c70984512875079b91f8977"/>
+      <property name="USD_ID" value=""/>
+      <property name="UST_ID" value="5c70984512875079b91f8977"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -803,10 +836,11 @@
       <value>100</value>
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
-        <field name="USD_ID">5c70984512875079b91f8977</field>
+        <field name="UST_ID">5c70984512875079b91f8977</field>
       </fields>
       <libsource lib="DATALOGGER01A-rescue" part="R-device" description=""/>
-      <property name="USD_ID" value="5c70984512875079b91f8977"/>
+      <property name="USD_ID" value=""/>
+      <property name="UST_ID" value="5c70984512875079b91f8977"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -816,10 +850,11 @@
       <value>4k7</value>
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
-        <field name="USD_ID">5c70984612875079b91f8995</field>
+        <field name="UST_ID">5c70984612875079b91f8995</field>
       </fields>
       <libsource lib="DATALOGGER01A-rescue" part="R-device" description=""/>
-      <property name="USD_ID" value="5c70984612875079b91f8995"/>
+      <property name="USD_ID" value=""/>
+      <property name="UST_ID" value="5c70984612875079b91f8995"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -829,10 +864,11 @@
       <value>10k</value>
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
-        <field name="USD_ID">5c70984612875079b91f899f</field>
+        <field name="UST_ID">5c70984612875079b91f899f</field>
       </fields>
       <libsource lib="DATALOGGER01A-rescue" part="R-device" description=""/>
-      <property name="USD_ID" value="5c70984612875079b91f899f"/>
+      <property name="USD_ID" value=""/>
+      <property name="UST_ID" value="5c70984612875079b91f899f"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -842,10 +878,11 @@
       <value>10k</value>
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
-        <field name="USD_ID">5c70984612875079b91f899f</field>
+        <field name="UST_ID">5c70984612875079b91f899f</field>
       </fields>
       <libsource lib="DATALOGGER01A-rescue" part="R-device" description=""/>
-      <property name="USD_ID" value="5c70984612875079b91f899f"/>
+      <property name="USD_ID" value=""/>
+      <property name="UST_ID" value="5c70984612875079b91f899f"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -864,10 +901,11 @@
       <value>10k</value>
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
-        <field name="USD_ID">5c70984612875079b91f899f</field>
+        <field name="UST_ID">5c70984612875079b91f899f</field>
       </fields>
       <libsource lib="DATALOGGER01A-rescue" part="R-device" description=""/>
-      <property name="USD_ID" value="5c70984612875079b91f899f"/>
+      <property name="USD_ID" value=""/>
+      <property name="UST_ID" value="5c70984612875079b91f899f"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -877,10 +915,11 @@
       <value>2k2</value>
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
-        <field name="USD_ID">5c70984612875079b91f8990</field>
+        <field name="UST_ID">5c70984612875079b91f8990</field>
       </fields>
       <libsource lib="DATALOGGER01A-rescue" part="R-device" description=""/>
-      <property name="USD_ID" value="5c70984612875079b91f8990"/>
+      <property name="USD_ID" value=""/>
+      <property name="UST_ID" value="5c70984612875079b91f8990"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -899,10 +938,11 @@
       <value>0R</value>
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
-        <field name="USD_ID">5c70984512875079b91f896b</field>
+        <field name="UST_ID">5c70984512875079b91f896b</field>
       </fields>
       <libsource lib="DATALOGGER01A-rescue" part="R-device" description=""/>
-      <property name="USD_ID" value="5c70984512875079b91f896b"/>
+      <property name="USD_ID" value=""/>
+      <property name="UST_ID" value="5c70984512875079b91f896b"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -912,10 +952,11 @@
       <value>0R</value>
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
-        <field name="USD_ID">5c70984512875079b91f896b</field>
+        <field name="UST_ID">5c70984512875079b91f896b</field>
       </fields>
       <libsource lib="DATALOGGER01A-rescue" part="R-device" description=""/>
-      <property name="USD_ID" value="5c70984512875079b91f896b"/>
+      <property name="USD_ID" value=""/>
+      <property name="UST_ID" value="5c70984512875079b91f896b"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -934,10 +975,11 @@
       <value>5MS1S102AM6QE</value>
       <footprint>Mlab_SW:5MS1S102AM6QE</footprint>
       <fields>
-        <field name="USD_ID">5c70984712875079b91f8b66</field>
+        <field name="UST_ID">5c70984712875079b91f8b66</field>
       </fields>
       <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
-      <property name="USD_ID" value="5c70984712875079b91f8b66"/>
+      <property name="USD_ID" value=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8b66"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -948,10 +990,11 @@
       <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
       <datasheet>http://www.intersil.com/content/dam/Intersil/documents/fn75/fn7599.pdf</datasheet>
       <fields>
-        <field name="USD_ID">5c70984712875079b91f8b79</field>
+        <field name="UST_ID">5c70984712875079b91f8b79</field>
       </fields>
       <libsource lib="DATALOGGER01A-rescue" part="ISL21070CIH320Z-TK-references" description=""/>
-      <property name="USD_ID" value="5c70984712875079b91f8b79"/>
+      <property name="USD_ID" value=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8b79"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -961,10 +1004,11 @@
       <value>TPS22965-Q1</value>
       <footprint>Package_SON:WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm_ThermalVias</footprint>
       <fields>
-        <field name="USD_ID">5c70984712875079b91f8b78</field>
+        <field name="UST_ID">5c70984712875079b91f8b78</field>
       </fields>
       <libsource lib="DATALOGGER01A-rescue" part="TPS22965-Q1-MLAB_IO" description=""/>
-      <property name="USD_ID" value="5c70984712875079b91f8b78"/>
+      <property name="USD_ID" value=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8b78"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -975,10 +1019,11 @@
       <footprint>Package_QFP:TQFP-44_10x10mm_P0.8mm</footprint>
       <datasheet>http://www.atmel.com/Images/Atmel-8272-8-bit-AVR-microcontroller-ATmega164A_PA-324A_PA-644A_PA-1284_P_datasheet.pdf</datasheet>
       <fields>
-        <field name="USD_ID">5c70984412875079b91f888e</field>
+        <field name="UST_ID">5c70984412875079b91f888e</field>
       </fields>
       <libsource lib="DATALOGGER01A-rescue" part="ATMEGA1284P-AU-atmel" description=""/>
-      <property name="USD_ID" value="5c70984412875079b91f888e"/>
+      <property name="USD_ID" value=""/>
+      <property name="UST_ID" value="5c70984412875079b91f888e"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -988,10 +1033,11 @@
       <value>PCF85263A</value>
       <footprint>Mlab_IO:TSSOP-10_3x3mm_Pitch0.5mm</footprint>
       <fields>
-        <field name="USD_ID">5c70984612875079b91f8a0c</field>
+        <field name="UST_ID">5c70984612875079b91f8a0c</field>
       </fields>
       <libsource lib="DATALOGGER01A-rescue" part="PCF85263A-MLAB_IO" description=""/>
-      <property name="USD_ID" value="5c70984612875079b91f8a0c"/>
+      <property name="USD_ID" value=""/>
+      <property name="UST_ID" value="5c70984612875079b91f8a0c"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1011,10 +1057,11 @@
       <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
       <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8870-SEEPROM-AT24CS64-Datasheet.pdf</datasheet>
       <fields>
-        <field name="USD_ID">5c70984712875079b91f8b99</field>
+        <field name="UST_ID">5c70984712875079b91f8b99</field>
       </fields>
       <libsource lib="Memory_EEPROM" part="AT24CS64-SSHM" description="I2C Serial EEPROM, 64Kb (8192x8) with Unique Serial Number, SO8"/>
-      <property name="USD_ID" value="5c70984712875079b91f8b99"/>
+      <property name="USD_ID" value=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8b99"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1025,10 +1072,11 @@
       <footprint>Mlab_XTAL:Crystal_HC49-U_Vertical</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="USD_ID">5c70984712875079b91f8b10</field>
+        <field name="UST_ID">5c70984712875079b91f8b10</field>
       </fields>
       <libsource lib="Device" part="Crystal" description="Two pin crystal"/>
-      <property name="USD_ID" value="5c70984712875079b91f8b10"/>
+      <property name="USD_ID" value=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8b10"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1038,10 +1086,11 @@
       <value>ABS07-120-32.768KHZ-T</value>
       <footprint>Mlab_XTAL:ABS07</footprint>
       <fields>
-        <field name="USD_ID">5c70984712875079b91f8b1b</field>
+        <field name="UST_ID">5c70984712875079b91f8b1b</field>
       </fields>
       <libsource lib="DATALOGGER01A-rescue" part="Crystal-device" description=""/>
-      <property name="USD_ID" value="5c70984712875079b91f8b1b"/>
+      <property name="USD_ID" value=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8b1b"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
