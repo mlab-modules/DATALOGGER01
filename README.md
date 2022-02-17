@@ -1,27 +1,27 @@
 <!--- PrjInfo ---> <!--- Please remove this line after manually editing --->
 <!--- 00a56be08b96043df9e37d6aff7b6990 --->
-<!--- Created:Time: --->
-<!--- Author:Mlab: --->
-<!--- AuthorEmail:mlab@mlab.cz: --->
-<!--- Tags:imported: --->
-<!--- Ust:None: --->
+<!--- Created:2022-02-16 21:34:42.798692: ---> 
+<!--- Author:: ---> 
+<!--- AuthorEmail:: ---> 
+<!--- Tags:: ---> 
+<!--- Ust:: ---> 
 <!--- Label --->
-<!--- ELabel --->
-<!--- Name:module: --->
+<!--- ELabel ---> 
+<!--- Name:DATALOGGER01A: --->
 # DATALOGGER01A
 <!--- LongName --->
-##
-<!--- ELongName --->
+## 
+<!--- ELongName ---> 
 
 <!--- Lead --->
 
-<!--- ELead --->
+<!--- ELead ---> 
 
-![DATALOGGER01A Top](doc/img/DATALOGGER01A_top.png)
+![DATALOGGER01A](doc/img/DATALOGGER01A_top.png) 
 
-![DATALOGGER01A Bottom](doc/img/DATALOGGER01A_bottom.png)
 
 <!--- Description --->
 <!--- EDescription --->
 <!--- Content --->
 <!--- EContent --->
+<sub><sup> Generated with [MLABweb](https://github.com/MLAB-project/MLABweb). (2022-02-16)</sup></sub>
