@@ -48,7 +48,7 @@ Eurocircuits class: 4C
 
 Components count: (SMD/THT)
 
-- Top: 0/41 (THT)
+- Top: 0/40 (THT)
 - Bottom: 47/3 (SMD + THT)
 
 Defined tracks:
@@ -86,7 +86,7 @@ Holes (excluding vias):
 - 1.1 mm (43 mils) (2)
 - 1.6 mm (63 mils) (6)
 - 1.85 mm (73 mils) (5)
-- 3.0 mm (118 mils) (4)
+- 3.0 mm (118 mils) (3)
 - 3.8 mm (150 mils) (4)
 
 

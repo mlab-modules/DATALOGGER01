@@ -42,7 +42,7 @@ Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datashee
 Project info:
 Schematic:,DATALOGGER01A
 Variant:,default
-Revision:,REV
+Revision:,
 Date:,2022-08-14
 KiCad Version:,6.0.4-6f826c9f35~116~ubuntu20.04.1
 Statistics:

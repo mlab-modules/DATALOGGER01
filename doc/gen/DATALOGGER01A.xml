@@ -2,19 +2,19 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/DATALOGGER01A.kicad_sch</source>
-    <date>Sun Aug 14 20:21:06 2022</date>
+    <date>Fri Aug 19 08:18:35 2022</date>
     <tool>Eeschema 6.0.4-6f826c9f35~116~ubuntu20.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>DATALOGGER01A</title>
         <company>Mlab www.mlab.cz</company>
-        <rev>REV</rev>
+        <rev/>
         <date>2022-08-14</date>
         <source>DATALOGGER01A.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value="Universal battery powered SDcard \ndatalogger. "/>
         <comment number="3" value="jacho &lt;jacho@mlab.cz&gt;"/>
-        <comment number="4" value="GPL 3"/>
+        <comment number="4" value="GPL 3.0"/>
         <comment number="5" value=""/>
         <comment number="6" value=""/>
         <comment number="7" value=""/>
