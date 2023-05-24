@@ -9,7 +9,10 @@ images:
 - doc/img/DATALOGGER01A_QRcode.png
 - doc/gen/img/DATALOGGER01A-bottom.png
 - doc/gen/img/DATALOGGER01A-top.png
+- hw/cam_profi/docs/DATALOGGER01A-assembly_page_01.svg
+- hw/cam_profi/docs/DATALOGGER01A-assembly_page_02.svg
 - doc/gen/DATALOGGER01A-schematic.svg
+- doc/gen/img/DATALOGGER01A-top.svg
 mark: 50
 mod_ibom: hw/cam_profi/ibom/DATALOGGER01A-ibom.html
 mod_scheme: doc/gen/DATALOGGER01A-schematic.pdf
