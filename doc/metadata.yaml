@@ -1,0 +1,26 @@
+description: 'Universal Arduino based data logger to SDcard. '
+github_branch: DATALOGGER01A
+github_repo: DATALOGGER01
+github_url: https://github.com/mlab-modules/DATALOGGER01
+homepage: false
+images:
+- doc/img/DATALOGGER01A_top.png
+- doc/img/DATALOGGER01A_bottom.png
+- doc/img/DATALOGGER01A_QRcode.png
+- doc/gen/img/DATALOGGER01A-bottom.png
+- doc/gen/img/DATALOGGER01A-top.png
+- doc/gen/DATALOGGER01A-schematic.svg
+mark: 50
+mod_scheme: doc/gen/DATALOGGER01A-schematic.pdf
+tags:
+- arduino
+- atmega1284p
+- battery-powered
+- datalogger
+- eeprom
+- mcu
+- mlab
+- rtc
+- sd-card
+- labduino
+title: DATALOGGER01
