@@ -1,8 +1,11 @@
 description: 'Universal Arduino based data logger to SDcard. '
 github_branch: DATALOGGER01A
+github_branches:
+- DATALOGGER01A
 github_repo: DATALOGGER01
 github_url: https://github.com/mlab-modules/DATALOGGER01
 homepage: false
+image: doc/img/DATALOGGER01A_top.png
 images:
 - doc/img/DATALOGGER01A_top.png
 - doc/img/DATALOGGER01A_bottom.png
@@ -13,6 +16,7 @@ images:
 - hw/cam_profi/docs/DATALOGGER01A-assembly_page_02.svg
 - doc/gen/DATALOGGER01A-schematic.svg
 - doc/gen/img/DATALOGGER01A-top.svg
+issues: 9
 mark: 50
 mod_ibom: hw/cam_profi/ibom/DATALOGGER01A-ibom.html
 mod_scheme: doc/gen/DATALOGGER01A-schematic.pdf
