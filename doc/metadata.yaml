@@ -7,11 +7,11 @@ github_url: https://github.com/mlab-modules/DATALOGGER01
 homepage: false
 image: doc/img/DATALOGGER01A_top.png
 images:
-- doc/img/DATALOGGER01A_QRcode.png
-- doc/img/DATALOGGER01A_bottom.png
 - doc/img/DATALOGGER01A_top.png
-- doc/gen/img/DATALOGGER01-top.png
+- doc/img/DATALOGGER01A_bottom.png
+- doc/img/DATALOGGER01A_QRcode.png
 - doc/gen/img/DATALOGGER01-bottom.png
+- doc/gen/img/DATALOGGER01-top.png
 - doc/gen/DATALOGGER01-schematic.svg
 - doc/gen/img/DATALOGGER01-top.svg
 - doc/gen/img/DATALOGGER01-bottom.svg
