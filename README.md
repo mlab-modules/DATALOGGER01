@@ -1,4 +1,4 @@
-# DATALOGGER01 - MLAB's Versatile Electronic Module
+# DATALOGGER01 - MLAB's Versatile processor module
 
 The DATALOGGER01 is a versatile electronic module designed by MLAB, containing an ATmega1284p processor. The module is programmable in the Arduino IDE and compatible with a variety of development environments and programming languages.
 
