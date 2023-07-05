@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<export version="E">
+<export version="D">
   <design>
-    <source>/github/workspace/hw/sch_pcb/DATALOGGER01A.kicad_sch</source>
-    <date>Wed May 24 21:32:45 2023</date>
-    <tool>Eeschema 6.0.11+dfsg-1~bpo11+1</tool>
+    <source>G:\MLAB_G\Moduly_zvlast\DATALOGGER01\hw\sch_pcb\DATALOGGER01A.kicad_sch</source>
+    <date>24.02.2021 14:07:22</date>
+    <tool>Eeschema (5.99.0-9154-g0d2ee266a1)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
-        <title>DATALOGGER01A</title>
+        <title>NAME</title>
         <company>Mlab www.mlab.cz</company>
-        <rev/>
-        <date>2022-08-14</date>
+        <rev>REV</rev>
+        <date>%F</date>
         <source>DATALOGGER01A.kicad_sch</source>
-        <comment number="1" value=""/>
-        <comment number="2" value="Universal battery powered SDcard \ndatalogger. "/>
-        <comment number="3" value="jacho &lt;jacho@mlab.cz&gt;"/>
-        <comment number="4" value="GPL 3.0"/>
+        <comment number="1" value="VERSION"/>
+        <comment number="2" value="Short description \nTwo lines are maximum"/>
+        <comment number="3" value="nickname &lt;email@example.com&gt;"/>
+        <comment number="4" value="BSD"/>
         <comment number="5" value=""/>
         <comment number="6" value=""/>
         <comment number="7" value=""/>
@@ -36,7 +36,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b2ae71a</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b2ae71a</tstamp>
     </comp>
     <comp ref="BT2">
       <value>BX0037</value>
@@ -50,7 +50,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b2ae721</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b2ae721</tstamp>
     </comp>
     <comp ref="BT3">
       <value>Battery_Cell-device</value>
@@ -64,7 +64,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b47fdb5</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b47fdb5</tstamp>
     </comp>
     <comp ref="C1">
       <value>100nF</value>
@@ -78,7 +78,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b1f6794</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b1f6794</tstamp>
     </comp>
     <comp ref="C2">
       <value>100nF</value>
@@ -92,7 +92,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b1f69a6</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b1f69a6</tstamp>
     </comp>
     <comp ref="C3">
       <value>100nF</value>
@@ -106,7 +106,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b1f6a02</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b1f6a02</tstamp>
     </comp>
     <comp ref="C4">
       <value>100nF</value>
@@ -120,21 +120,21 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b40f4a8</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b40f4a8</tstamp>
     </comp>
     <comp ref="C5">
-      <value>15pF</value>
+      <value>100nF</value>
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
-        <field name="UST_ID">5c70984712875079b91f8b32</field>
+        <field name="UST_ID">5c70984712875079b91f8b4c</field>
       </fields>
       <libsource lib="DATALOGGER01A-rescue" part="C-device" description=""/>
       <property name="USD_ID" value=""/>
-      <property name="UST_ID" value="5c70984712875079b91f8b32"/>
+      <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b2480a8</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b2480a8</tstamp>
     </comp>
     <comp ref="C6">
       <value>100nF</value>
@@ -148,7 +148,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b1f6b7d</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b1f6b7d</tstamp>
     </comp>
     <comp ref="C7">
       <value>1uF</value>
@@ -162,21 +162,21 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b25a565</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b25a565</tstamp>
     </comp>
     <comp ref="C8">
-      <value>15pF</value>
+      <value>100nF</value>
       <footprint>Mlab_R:SMD-0805</footprint>
       <fields>
-        <field name="UST_ID">5c70984712875079b91f8b32</field>
+        <field name="UST_ID">5c70984712875079b91f8b4c</field>
       </fields>
       <libsource lib="DATALOGGER01A-rescue" part="C-device" description=""/>
       <property name="USD_ID" value=""/>
-      <property name="UST_ID" value="5c70984712875079b91f8b32"/>
+      <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b24828c</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b24828c</tstamp>
     </comp>
     <comp ref="C9">
       <value>47uF</value>
@@ -190,7 +190,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b2ae769</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b2ae769</tstamp>
     </comp>
     <comp ref="C10">
       <value>EMI_Filter_C</value>
@@ -200,7 +200,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b2ae762</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b2ae762</tstamp>
     </comp>
     <comp ref="C11">
       <value>10uF</value>
@@ -214,7 +214,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b19413f</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b19413f</tstamp>
     </comp>
     <comp ref="C12">
       <value>1nF</value>
@@ -228,7 +228,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b22f305</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b22f305</tstamp>
     </comp>
     <comp ref="C13">
       <value>100nF</value>
@@ -242,7 +242,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b2ae770</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b2ae770</tstamp>
     </comp>
     <comp ref="C14">
       <value>10uF</value>
@@ -256,7 +256,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b1d7340</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b1d7340</tstamp>
     </comp>
     <comp ref="C15">
       <value>100nF</value>
@@ -270,7 +270,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b194068</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b194068</tstamp>
     </comp>
     <comp ref="C16">
       <value>4u7</value>
@@ -284,7 +284,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b1e158f</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b1e158f</tstamp>
     </comp>
     <comp ref="C17">
       <value>100nF</value>
@@ -298,7 +298,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b1d748a</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b1d748a</tstamp>
     </comp>
     <comp ref="C18">
       <value>100nF</value>
@@ -312,7 +312,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b38bb8a</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b38bb8a</tstamp>
     </comp>
     <comp ref="C19">
       <value>100nF</value>
@@ -326,7 +326,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b36fe27</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b36fe27</tstamp>
     </comp>
     <comp ref="C20">
       <value>100nF</value>
@@ -340,7 +340,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b38c9ac</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b38c9ac</tstamp>
     </comp>
     <comp ref="C21">
       <value>100nF</value>
@@ -354,7 +354,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b3a9d6d</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b3a9d6d</tstamp>
     </comp>
     <comp ref="C22">
       <value>100nF</value>
@@ -368,7 +368,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b641c55</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b641c55</tstamp>
     </comp>
     <comp ref="D2">
       <value>M4</value>
@@ -382,11 +382,12 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b2ae72f</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b2ae72f</tstamp>
     </comp>
     <comp ref="D3">
       <value>HLMP-K150+FIX-LED-313</value>
       <footprint>Mlab_D:FIX-LED-313</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="UST_ID">5c70984712875079b91f8b67</field>
       </fields>
@@ -396,7 +397,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b2afff7</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b2afff7</tstamp>
     </comp>
     <comp ref="F1">
       <value>750mA</value>
@@ -410,7 +411,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b2ae750</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b2ae750</tstamp>
     </comp>
     <comp ref="F2">
       <value>750mA</value>
@@ -424,7 +425,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b390f43</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b390f43</tstamp>
     </comp>
     <comp ref="J1">
       <value>HEADER_2x01_PARALLEL</value>
@@ -433,7 +434,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b19954e</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b19954e</tstamp>
     </comp>
     <comp ref="J2">
       <value>HEADER_2x01_PARALLEL</value>
@@ -442,7 +443,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b19976a</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b19976a</tstamp>
     </comp>
     <comp ref="J3">
       <value>HEADER_2x01_PARALLEL</value>
@@ -451,7 +452,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b19979e</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b19979e</tstamp>
     </comp>
     <comp ref="J4">
       <value>HEADER_2x01_PARALLEL</value>
@@ -460,7 +461,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b1997d4</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b1997d4</tstamp>
     </comp>
     <comp ref="J5">
       <value>HEADER_2x01_PARALLEL</value>
@@ -469,7 +470,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b199810</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b199810</tstamp>
     </comp>
     <comp ref="J6">
       <value>HEADER_2x03_PARALLEL</value>
@@ -478,7 +479,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b2ae777</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b2ae777</tstamp>
     </comp>
     <comp ref="J7">
       <value>MCC-SD</value>
@@ -493,7 +494,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b17ba92</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b17ba92</tstamp>
     </comp>
     <comp ref="J8">
       <value>HEADER_2x01_PARALLEL</value>
@@ -502,7 +503,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b1e7269</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b1e7269</tstamp>
     </comp>
     <comp ref="J9">
       <value>HEADER_2x01</value>
@@ -511,7 +512,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b288d80</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b288d80</tstamp>
     </comp>
     <comp ref="J10">
       <value>HEADER_2x03_PARALLEL</value>
@@ -520,7 +521,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b2bb732</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b2bb732</tstamp>
     </comp>
     <comp ref="J11">
       <value>HEADER_2x01</value>
@@ -529,7 +530,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b1bba7f</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b1bba7f</tstamp>
     </comp>
     <comp ref="J12">
       <value>HEADER_2x01_PARALLEL</value>
@@ -538,7 +539,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b31162b</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b31162b</tstamp>
     </comp>
     <comp ref="J13">
       <value>HEADER_2x01_PARALLEL</value>
@@ -547,7 +548,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b31175e</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b31175e</tstamp>
     </comp>
     <comp ref="J14">
       <value>HEADER_2x01_PARALLEL</value>
@@ -556,7 +557,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b2efe60</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b2efe60</tstamp>
     </comp>
     <comp ref="J15">
       <value>HEADER_2x01_PARALLEL</value>
@@ -565,7 +566,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b3117da</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b3117da</tstamp>
     </comp>
     <comp ref="J16">
       <value>HEADER_2x01_PARALLEL</value>
@@ -574,7 +575,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b311860</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b311860</tstamp>
     </comp>
     <comp ref="J17">
       <value>HEADER_2x01_PARALLEL</value>
@@ -583,7 +584,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b2f6a38</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b2f6a38</tstamp>
     </comp>
     <comp ref="J18">
       <value>HEADER_2x01_PARALLEL</value>
@@ -592,7 +593,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b2f6ac0</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b2f6ac0</tstamp>
     </comp>
     <comp ref="J19">
       <value>HEADER_2x01_PARALLEL</value>
@@ -601,7 +602,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b2f6b34</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b2f6b34</tstamp>
     </comp>
     <comp ref="J20">
       <value>HEADER_2x01_PARALLEL</value>
@@ -610,7 +611,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b2f6baa</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b2f6baa</tstamp>
     </comp>
     <comp ref="J21">
       <value>HEADER_2x01</value>
@@ -619,7 +620,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b4273e8</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b4273e8</tstamp>
     </comp>
     <comp ref="J22">
       <value>HEADER_2x01_PARALLEL</value>
@@ -628,7 +629,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b1a7af8</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b1a7af8</tstamp>
     </comp>
     <comp ref="J23">
       <value>HEADER_2x01_PARALLEL</value>
@@ -637,7 +638,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b1a77d6</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b1a77d6</tstamp>
     </comp>
     <comp ref="J24">
       <value>HEADER_2x01_PARALLEL</value>
@@ -646,7 +647,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b1a7b3a</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b1a7b3a</tstamp>
     </comp>
     <comp ref="J25">
       <value>HEADER_2x01_PARALLEL</value>
@@ -655,7 +656,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b1a7d34</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b1a7d34</tstamp>
     </comp>
     <comp ref="J26">
       <value>HEADER_2x01_PARALLEL</value>
@@ -664,7 +665,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b1a7d7a</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b1a7d7a</tstamp>
     </comp>
     <comp ref="J27">
       <value>HEADER_2x01_PARALLEL</value>
@@ -673,7 +674,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b224312</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b224312</tstamp>
     </comp>
     <comp ref="J28">
       <value>HEADER_2x01_PARALLEL</value>
@@ -682,7 +683,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b22437c</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b22437c</tstamp>
     </comp>
     <comp ref="J29">
       <value>HEADER_2x01_PARALLEL</value>
@@ -691,7 +692,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b2243e2</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b2243e2</tstamp>
     </comp>
     <comp ref="J30">
       <value>HEADER_2x01_PARALLEL</value>
@@ -700,7 +701,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b36b7a2</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b36b7a2</tstamp>
     </comp>
     <comp ref="J31">
       <value>HEADER_2x03</value>
@@ -709,7 +710,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b253fc7</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b253fc7</tstamp>
     </comp>
     <comp ref="J32">
       <value>HEADER_2x01</value>
@@ -718,7 +719,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b3ca4bc</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b3ca4bc</tstamp>
     </comp>
     <comp ref="J33">
       <value>HEADER_2x03_PARALLEL</value>
@@ -727,7 +728,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b422a20</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b422a20</tstamp>
     </comp>
     <comp ref="J34">
       <value>MCC-SD (kouka z modulu)</value>
@@ -737,7 +738,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b49fc75</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b49fc75</tstamp>
     </comp>
     <comp ref="L1">
       <value>10uH - LQH32CN100K23L</value>
@@ -751,7 +752,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b1f6a96</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b1f6a96</tstamp>
     </comp>
     <comp ref="M1">
       <value>HOLE</value>
@@ -760,7 +761,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-0000549d7549</tstamps>
+      <tstamp>00000000-0000-0000-0000-0000549d7549</tstamp>
     </comp>
     <comp ref="M2">
       <value>HOLE</value>
@@ -769,7 +770,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-0000549d7628</tstamps>
+      <tstamp>00000000-0000-0000-0000-0000549d7628</tstamp>
     </comp>
     <comp ref="M3">
       <value>HOLE</value>
@@ -778,7 +779,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-0000549d7646</tstamps>
+      <tstamp>00000000-0000-0000-0000-0000549d7646</tstamp>
     </comp>
     <comp ref="M4">
       <value>HOLE</value>
@@ -787,7 +788,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-0000549d7665</tstamps>
+      <tstamp>00000000-0000-0000-0000-0000549d7665</tstamp>
     </comp>
     <comp ref="R1">
       <value>100</value>
@@ -801,7 +802,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b18f2ad</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b18f2ad</tstamp>
     </comp>
     <comp ref="R2">
       <value>100</value>
@@ -815,7 +816,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b18f329</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b18f329</tstamp>
     </comp>
     <comp ref="R3">
       <value>100</value>
@@ -829,7 +830,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b18f393</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b18f393</tstamp>
     </comp>
     <comp ref="R4">
       <value>100</value>
@@ -843,7 +844,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b18f359</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b18f359</tstamp>
     </comp>
     <comp ref="R5">
       <value>4k7</value>
@@ -857,7 +858,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b3b14ff</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b3b14ff</tstamp>
     </comp>
     <comp ref="R6">
       <value>10k</value>
@@ -871,7 +872,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b34d4aa</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b34d4aa</tstamp>
     </comp>
     <comp ref="R7">
       <value>10k</value>
@@ -885,7 +886,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b34d7c9</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b34d7c9</tstamp>
     </comp>
     <comp ref="R8">
       <value>-</value>
@@ -894,7 +895,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b242eec</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b242eec</tstamp>
     </comp>
     <comp ref="R9">
       <value>10k</value>
@@ -908,7 +909,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b1e1a11</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b1e1a11</tstamp>
     </comp>
     <comp ref="R10">
       <value>2k2</value>
@@ -922,7 +923,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b2ce6ca</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b2ce6ca</tstamp>
     </comp>
     <comp ref="R11">
       <value>-</value>
@@ -931,7 +932,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b7a4815</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b7a4815</tstamp>
     </comp>
     <comp ref="R12">
       <value>0R</value>
@@ -945,7 +946,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b72b536</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b72b536</tstamp>
     </comp>
     <comp ref="R15">
       <value>0R</value>
@@ -959,7 +960,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b6c566a</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b6c566a</tstamp>
     </comp>
     <comp ref="R16">
       <value>-</value>
@@ -968,7 +969,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b6c5b4e</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b6c5b4e</tstamp>
     </comp>
     <comp ref="SW1">
       <value>5MS1S102AM6QE</value>
@@ -982,7 +983,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b2ae736</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b2ae736</tstamp>
     </comp>
     <comp ref="U1">
       <value>ISL21080CIH320Z-TK</value>
@@ -997,7 +998,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b3b0708</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b3b0708</tstamp>
     </comp>
     <comp ref="U2">
       <value>TPS22965-Q1</value>
@@ -1011,7 +1012,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b22ef1b</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b22ef1b</tstamp>
     </comp>
     <comp ref="U3">
       <value>ATMEGA1284P-AU</value>
@@ -1026,7 +1027,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b17ab5a</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b17ab5a</tstamp>
     </comp>
     <comp ref="U4">
       <value>PCF85263A</value>
@@ -1040,7 +1041,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b36b76c</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b36b76c</tstamp>
     </comp>
     <comp ref="U5">
       <value>LM4041CIM3-1.2(neosazovat)</value>
@@ -1049,7 +1050,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b291fc2</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b291fc2</tstamp>
     </comp>
     <comp ref="U6">
       <value>AT24CS64-SSHM</value>
@@ -1064,11 +1065,12 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b6318e3</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b6318e3</tstamp>
     </comp>
     <comp ref="Y1">
       <value>16MHz</value>
       <footprint>Mlab_XTAL:Crystal_HC49-U_Vertical</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="UST_ID">5c70984712875079b91f8b10</field>
       </fields>
@@ -1078,7 +1080,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b257330</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b257330</tstamp>
     </comp>
     <comp ref="Y2">
       <value>ABS07-120-32.768KHZ-T</value>
@@ -1092,7 +1094,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="DATALOGGER01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005b36b778</tstamps>
+      <tstamp>00000000-0000-0000-0000-00005b36b778</tstamp>
     </comp>
   </components>
   <libparts>
@@ -1106,7 +1108,7 @@
         <pin num="1" name="(PCINT13/MOSI)PB5" type="bidirectional"/>
         <pin num="2" name="(PCINT14/MISO)PB6" type="bidirectional"/>
         <pin num="3" name="(PCINT15/SCK)PB7" type="bidirectional"/>
-        <pin num="4" name="~{RESET}" type="input"/>
+        <pin num="4" name="~RESET" type="input"/>
         <pin num="5" name="VCC" type="power_in"/>
         <pin num="6" name="GND" type="power_in"/>
         <pin num="7" name="XTAL2" type="bidirectional"/>
@@ -1146,7 +1148,7 @@
         <pin num="41" name="(PCINT9/CLKO/T1)PB1" type="bidirectional"/>
         <pin num="42" name="(PCINT10/AIN0/INT2)PB2" type="bidirectional"/>
         <pin num="43" name="(PCINT11/AIN1/OC0)PB3" type="bidirectional"/>
-        <pin num="44" name="(PCINT12/OC0B/~{SS})PB4" type="bidirectional"/>
+        <pin num="44" name="(PCINT12/OC0B/~SS~)PB4" type="bidirectional"/>
       </pins>
     </libpart>
     <libpart lib="DATALOGGER01A-rescue" part="Battery_Cell-device">
@@ -1168,8 +1170,8 @@
         <field name="Value">C-device</field>
       </fields>
       <pins>
-        <pin num="1" name="" type="passive"/>
-        <pin num="2" name="" type="passive"/>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
       </pins>
     </libpart>
     <libpart lib="DATALOGGER01A-rescue" part="CP-device">
@@ -1181,8 +1183,8 @@
         <field name="Value">CP-device</field>
       </fields>
       <pins>
-        <pin num="1" name="" type="passive"/>
-        <pin num="2" name="" type="passive"/>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
       </pins>
     </libpart>
     <libpart lib="DATALOGGER01A-rescue" part="Crystal-device">
@@ -1232,8 +1234,8 @@
         <field name="Value">HEADER_2x01-MLAB_HEADER</field>
       </fields>
       <pins>
-        <pin num="1" name="" type="input"/>
-        <pin num="2" name="" type="input"/>
+        <pin num="1" name="~" type="input"/>
+        <pin num="2" name="~" type="input"/>
       </pins>
     </libpart>
     <libpart lib="DATALOGGER01A-rescue" part="HEADER_2x01_PARALLEL-MLAB_HEADER">
@@ -1242,8 +1244,8 @@
         <field name="Value">HEADER_2x01_PARALLEL-MLAB_HEADER</field>
       </fields>
       <pins>
-        <pin num="1" name="" type="input"/>
-        <pin num="2" name="" type="input"/>
+        <pin num="1" name="~" type="input"/>
+        <pin num="2" name="~" type="input"/>
       </pins>
     </libpart>
     <libpart lib="DATALOGGER01A-rescue" part="HEADER_2x03-MLAB_HEADER">
@@ -1252,12 +1254,12 @@
         <field name="Value">HEADER_2x03-MLAB_HEADER</field>
       </fields>
       <pins>
-        <pin num="1" name="" type="input"/>
-        <pin num="2" name="" type="input"/>
-        <pin num="3" name="" type="input"/>
-        <pin num="4" name="" type="input"/>
-        <pin num="5" name="" type="input"/>
-        <pin num="6" name="" type="input"/>
+        <pin num="1" name="~" type="input"/>
+        <pin num="2" name="~" type="input"/>
+        <pin num="3" name="~" type="input"/>
+        <pin num="4" name="~" type="input"/>
+        <pin num="5" name="~" type="input"/>
+        <pin num="6" name="~" type="input"/>
       </pins>
     </libpart>
     <libpart lib="DATALOGGER01A-rescue" part="HEADER_2x03_PARALLEL-MLAB_HEADER">
@@ -1266,12 +1268,12 @@
         <field name="Value">HEADER_2x03_PARALLEL-MLAB_HEADER</field>
       </fields>
       <pins>
-        <pin num="1" name="" type="input"/>
-        <pin num="2" name="" type="input"/>
-        <pin num="3" name="" type="input"/>
-        <pin num="4" name="" type="input"/>
-        <pin num="5" name="" type="input"/>
-        <pin num="6" name="" type="input"/>
+        <pin num="1" name="~" type="input"/>
+        <pin num="2" name="~" type="input"/>
+        <pin num="3" name="~" type="input"/>
+        <pin num="4" name="~" type="input"/>
+        <pin num="5" name="~" type="input"/>
+        <pin num="6" name="~" type="input"/>
       </pins>
     </libpart>
     <libpart lib="DATALOGGER01A-rescue" part="HOLE-MLAB_MECHANICAL">
@@ -1280,7 +1282,7 @@
         <field name="Value">HOLE-MLAB_MECHANICAL</field>
       </fields>
       <pins>
-        <pin num="1" name="" type="input"/>
+        <pin num="1" name="~" type="input"/>
       </pins>
     </libpart>
     <libpart lib="DATALOGGER01A-rescue" part="ISL21070CIH320Z-TK-references">
@@ -1365,8 +1367,8 @@
         <field name="Value">Polyfuse-device</field>
       </fields>
       <pins>
-        <pin num="1" name="" type="passive"/>
-        <pin num="2" name="" type="passive"/>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
       </pins>
     </libpart>
     <libpart lib="DATALOGGER01A-rescue" part="R-device">
@@ -1379,8 +1381,8 @@
         <field name="Value">R-device</field>
       </fields>
       <pins>
-        <pin num="1" name="" type="passive"/>
-        <pin num="2" name="" type="passive"/>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
       </pins>
     </libpart>
     <libpart lib="DATALOGGER01A-rescue" part="SD_Card-Connector">
@@ -1421,7 +1423,7 @@
         <pin num="6" name="CT" type="bidirectional"/>
         <pin num="7" name="VOUT" type="bidirectional"/>
         <pin num="8" name="VOUT" type="bidirectional"/>
-        <pin num="9" name="" type="bidirectional"/>
+        <pin num="9" name="~" type="bidirectional"/>
       </pins>
     </libpart>
     <libpart lib="Device" part="Crystal">
@@ -1479,16 +1481,16 @@
   </libparts>
   <libraries>
     <library logical="DATALOGGER01A-rescue">
-      <uri>/github/workspace/hw/sch_pcb/DATALOGGER01A-rescue.lib</uri>
+      <uri>G:\MLAB_G\Moduly_zvlast\DATALOGGER01\hw\sch_pcb/DATALOGGER01A-rescue.lib</uri>
     </library>
     <library logical="Device">
-      <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
+      <uri>C:\Program Files\KiCad\share\kicad\library/Device.lib</uri>
     </library>
     <library logical="Memory_EEPROM">
-      <uri>/usr/share/kicad/symbols//Memory_EEPROM.kicad_sym</uri>
+      <uri>C:\Program Files\KiCad\share\kicad\library/Memory_EEPROM.lib</uri>
     </library>
     <library logical="Switch">
-      <uri>/usr/share/kicad/symbols//Switch.kicad_sym</uri>
+      <uri>C:\Program Files\KiCad\share\kicad\library/Switch.lib</uri>
     </library>
   </libraries>
   <nets>
@@ -1539,7 +1541,7 @@
     </net>
     <net code="10" name="/PB4">
       <node ref="R1" pin="2" pintype="passive"/>
-      <node ref="U3" pin="44" pinfunction="(PCINT12/OC0B/~{SS})PB4" pintype="bidirectional"/>
+      <node ref="U3" pin="44" pinfunction="(PCINT12/OC0B/~SS~)PB4" pintype="bidirectional"/>
     </net>
     <net code="11" name="/PB5">
       <node ref="J29" pin="1" pintype="input"/>
@@ -1607,7 +1609,7 @@
       <node ref="C16" pin="1" pintype="passive"/>
       <node ref="J31" pin="5" pintype="input"/>
       <node ref="R9" pin="1" pintype="passive"/>
-      <node ref="U3" pin="4" pinfunction="~{RESET}" pintype="input"/>
+      <node ref="U3" pin="4" pinfunction="~RESET" pintype="input"/>
     </net>
     <net code="22" name="/RX0">
       <node ref="J17" pin="1" pintype="input"/>
