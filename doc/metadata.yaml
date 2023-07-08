@@ -15,11 +15,11 @@ images:
 - doc/gen/DATALOGGER01-schematic.svg
 - doc/gen/img/DATALOGGER01-top.svg
 - doc/gen/img/DATALOGGER01-bottom.svg
-- hw/cam_profi/docs/DATALOGGER01A-assembly_page_02.svg
-- hw/cam_profi/docs/DATALOGGER01A-assembly_page_01.svg
+- hw/cam_profi/assembly/DATALOGGER01-assembly_page_01.svg
+- hw/cam_profi/assembly/DATALOGGER01-assembly_page_02.svg
 issues: 9
 mark: 50
-mod_ibom: hw/cam_profi/ibom/DATALOGGER01-ibom.html
+mod_ibom: hw/cam_profi/DATALOGGER01-ibom.html
 mod_scheme: doc/gen/DATALOGGER01-schematic.pdf
 tags:
 - arduino
