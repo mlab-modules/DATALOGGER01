@@ -21,7 +21,7 @@ issues: 9
 mark: 50
 mod_ibom: hw/cam_profi/DATALOGGER01-ibom.html
 mod_scheme: doc/gen/DATALOGGER01-schematic.pdf
-status: 0
+status: 2
 tags:
 - arduino
 - atmega1284p
