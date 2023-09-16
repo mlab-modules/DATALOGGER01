@@ -5,7 +5,7 @@ github_branches:
 github_repo: DATALOGGER01
 github_url: https://github.com/mlab-modules/DATALOGGER01
 homepage: false
-image: doc/img/DATALOGGER01A_top.png
+image_title: doc/img/DATALOGGER01A_top.png
 images:
 - doc/gen/img/DATALOGGER01-bottom.png
 - doc/gen/img/DATALOGGER01-top.png
