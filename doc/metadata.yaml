@@ -2,6 +2,7 @@ description: 'Universal Arduino based data logger to SDcard. '
 github_branch: DATALOGGER01A
 github_branches:
 - DATALOGGER01A
+github_description: 'Universal Arduino based data logger to SDcard. '
 github_repo: DATALOGGER01
 github_url: https://github.com/mlab-modules/DATALOGGER01
 homepage: false
@@ -38,4 +39,4 @@ tags:
 - kicad-project
 - pcb
 title: DATALOGGER01
-updated: '2023-09-16T21:30:05.303126+00:00'
+updated: '2023-09-17T11:31:16.444733+00:00'
